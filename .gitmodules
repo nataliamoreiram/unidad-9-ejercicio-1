@@ -1,0 +1,6 @@
+[submodule "[autonomo]"]
+	path = [autonomo]
+	url = https://github.com/nataliamoreiram/unidad-9-ejercicio-1-autonomo.git
+[submodule "autonomo"]
+	path = autonomo
+	url = https://github.com/nataliamoreiram/unidad-9-ejercicio-1-autonomo.git
